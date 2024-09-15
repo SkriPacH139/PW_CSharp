@@ -1,0 +1,15 @@
+E:\С#\PW_01_C#\bin\Debug\net8.0\PW_01_C#.exe
+E:\С#\PW_01_C#\bin\Debug\net8.0\PW_01_C#.deps.json
+E:\С#\PW_01_C#\bin\Debug\net8.0\PW_01_C#.runtimeconfig.json
+E:\С#\PW_01_C#\bin\Debug\net8.0\PW_01_C#.dll
+E:\С#\PW_01_C#\bin\Debug\net8.0\PW_01_C#.pdb
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.AssemblyInfoInputs.cache
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.AssemblyInfo.cs
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.csproj.CoreCompileInputs.cache
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.dll
+E:\С#\PW_01_C#\obj\Debug\net8.0\refint\PW_01_C#.dll
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.pdb
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.genruntimeconfig.cache
+E:\С#\PW_01_C#\obj\Debug\net8.0\ref\PW_01_C#.dll
+E:\С#\PW_01_C#\obj\Debug\net8.0\PW_01_C#.sourcelink.json
