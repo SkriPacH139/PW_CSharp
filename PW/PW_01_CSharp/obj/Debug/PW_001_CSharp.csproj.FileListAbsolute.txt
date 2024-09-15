@@ -1,7 +1,0 @@
-E:\С#\PW_001_CSharp\bin\Debug\PW_001_CSharp.exe.config
-E:\С#\PW_001_CSharp\bin\Debug\PW_001_CSharp.exe
-E:\С#\PW_001_CSharp\bin\Debug\PW_001_CSharp.pdb
-E:\С#\PW_001_CSharp\obj\Debug\PW_001_CSharp.csproj.AssemblyReference.cache
-E:\С#\PW_001_CSharp\obj\Debug\PW_001_CSharp.csproj.CoreCompileInputs.cache
-E:\С#\PW_001_CSharp\obj\Debug\PW_001_CSharp.exe
-E:\С#\PW_001_CSharp\obj\Debug\PW_001_CSharp.pdb
