@@ -1,0 +1,26 @@
+﻿<Page x:Class="PW_17.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PW_17"
+      mc:Ignorable="d" 
+      d:DesignHeight="350" d:DesignWidth="400"
+      Title="MainPage" MinWidth="400" MaxWidth="400" MinHeight="350" MaxHeight="350">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+            <TextBlock Text="Общий баланс" TextAlignment="Center" />
+            <TextBlock Name="BalanceText" TextAlignment="Center" />
+
+            <TextBlock Name="IncomeText"  TextAlignment="Center" />
+           
+            <TextBlock Name="ExpenseText" TextAlignment="Center" />
+
+            <Button Content="Добавить доход"  Width="200"
+                    Click="AddIncome_Click" />
+            <Button Content="Добавить расход"  Width="200"
+                    Click="AddExpense_Click" />
+        </StackPanel>
+    </Grid>
+</Page>

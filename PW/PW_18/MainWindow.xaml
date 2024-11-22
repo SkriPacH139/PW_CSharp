@@ -1,0 +1,28 @@
+﻿<Window x:Class="PW_18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PW_18"
+        mc:Ignorable="d"
+        Title="Простой таймер" Height="200" Width="400" MinWidth="400" MaxWidth="400" MinHeight="200" MaxHeight="200">
+    <Grid>
+        <TextBlock x:Name="TimeTextBlock" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="24" Margin="10" />
+        <ComboBox x:Name="TimeZoneComboBox" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" SelectionChanged="TimeZoneComboBox_SelectionChanged">
+            <!-- Локальное время -->
+            <ComboBoxItem Content="Local Time" Tag="" IsSelected="True" />
+            
+            <ComboBoxItem Content="UTC (Coordinated Universal Time)" Tag="UTC" />
+            <ComboBoxItem Content="Europe/Moscow" Tag="Europe/Moscow" />
+            <ComboBoxItem Content="America/New_York (Eastern Time)" Tag="America/New_York" />
+            <ComboBoxItem Content="America/Chicago (Central Time)" Tag="America/Chicago" />
+            <ComboBoxItem Content="America/Los_Angeles (Pacific Time)" Tag="America/Los_Angeles" />
+            <ComboBoxItem Content="Asia/Tokyo" Tag="Asia/Tokyo" />
+            <ComboBoxItem Content="Asia/Shanghai" Tag="Asia/Shanghai" />
+            <ComboBoxItem Content="Asia/Dubai" Tag="Asia/Dubai" />
+            <ComboBoxItem Content="Australia/Sydney" Tag="Australia/Sydney" />
+            <ComboBoxItem Content="Europe/London" Tag="Europe/London" />
+            <ComboBoxItem Content="Europe/Paris" Tag="Europe/Paris" />
+        </ComboBox>
+    </Grid>
+</Window>
